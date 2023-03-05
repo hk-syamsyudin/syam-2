@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hk-syamsyudin.github.io/syam-2/sitemap.xml
